@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1657684829 source:/home/thangvuong/work/CodeBlock_WS/QASytem_Assignment/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<mutex>
+
